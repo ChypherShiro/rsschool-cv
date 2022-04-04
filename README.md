@@ -1,1 +1,1 @@
-# rsschool-cv
+https://ChypherShiro.github.io/rsschool-cv/cv
