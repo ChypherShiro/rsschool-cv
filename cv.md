@@ -37,3 +37,9 @@ function highAndLow(numbers){
   return(max + " " + min);
 }
 ``` 
+## Education
+* Kyrgyz State Technical University named after I.Razzakov
+
+## Language:
+Accourding to www.efset.org online test my English is in range of B1 and B2 
+![english_level](/C:/Users/Arif/Desktop/english.png)
