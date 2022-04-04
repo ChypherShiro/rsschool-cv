@@ -1,1 +1,1 @@
-https://ChypherShiro.github.io/rsschool-cv/cv
+https://ChypherShiro.github.io/rsschool-cv/
