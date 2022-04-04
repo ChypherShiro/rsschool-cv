@@ -42,4 +42,4 @@ function highAndLow(numbers){
 
 ## Language:
 Accourding to www.efset.org online test my English is in range of B1 and B2 
-![english_level](/C:/Users/Arif/Desktop/english.png)
+![english_level](/rsschool-cv/english.png)
